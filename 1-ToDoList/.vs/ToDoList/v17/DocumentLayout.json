@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\C#\\Udemy course - Ultimate C# Masterclass for 2025\\MyRepo\\1-ToDoList\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FBC99434-73FE-47C2-BF00-84E67E1C8775}|ToDoList\\ToDoList.csproj|c:\\users\\user\\desktop\\c#\\udemy course - ultimate c# masterclass for 2025\\myrepo\\1-todolist\\todolist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FBC99434-73FE-47C2-BF00-84E67E1C8775}|ToDoList\\ToDoList.csproj|solutionrelative:todolist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9FECFB4E-C631-4A54-A844-2FD33020456E}|Calculator\\Calculator.csproj|c:\\users\\user\\desktop\\c#\\udemy course - ultimate c# masterclass for 2025\\myrepo\\1-todolist\\calculator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FECFB4E-C631-4A54-A844-2FD33020456E}|Calculator\\Calculator.csproj|solutionrelative:calculator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -20,13 +20,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\C#\\Udemy course - Ultimate C# Masterclass for 2025\\MyRepo\\1-ToDoList\\ToDoList\\Program.cs",
-              "RelativeDocumentMoniker": "ToDoList\\Program.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\C#\\Udemy course - Ultimate C# Masterclass for 2025\\MyRepo\\1-ToDoList\\ToDoList\\Program.cs",
-              "RelativeToolTip": "ToDoList\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAASAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\C#\\Udemy course - Ultimate C# Masterclass for 2025\\MyRepo\\1-ToDoList\\Calculator\\Program.cs",
+              "RelativeDocumentMoniker": "Calculator\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\C#\\Udemy course - Ultimate C# Masterclass for 2025\\MyRepo\\1-ToDoList\\Calculator\\Program.cs",
+              "RelativeToolTip": "Calculator\\Program.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAqwBMAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-08T16:35:31.705Z",
+              "WhenOpened": "2025-02-12T19:46:31.916Z",
               "EditorCaption": ""
             }
           ]
